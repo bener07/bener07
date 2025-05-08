@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Bernardo
 
-Welcome to my GitHub profile! I’m a passionate software developer from Portugal, with a strong background in **Informatics** and a keen interest in **web development**, **data science**, and **networking**. I love working on innovative projects and continuously improving my technical skills.
+Welcome to my GitHub profile! I'm a full-stack developer from Portugal with a strong foundation in **Informatics**, having completed a professional course at **Colégio São Miguel** during high school. I specialise in creating efficient and scalable solutions using diverse technologies.
 
-## 💻 About Me
+## 🧠 About Me
 
-I completed a **professional course in Informatics** at **Colégio São Miguel** during high school, where I developed a solid foundation in programming, web development, and computer systems. My journey in tech is driven by curiosity and a commitment to solving complex problems. I am always striving to enhance my knowledge in software development, as well as deepen my understanding of **networking** and **data-driven technologies**.
-
-- 🌱 **Currently learning**: Expanding my knowledge of **network protocols**, **cloud technologies**, and **machine learning**.
-- 💡 **Interests**: Software development, **networking**, **web applications**, **game development**, **data science**, and **cloud computing**.
-- 🔧 **Competencies**: I also have a solid foundation in **networking fundamentals**, including **TCP/IP**, **DNS**, **HTTP/HTTPS**, and **basic security concepts**.
+- 🎓 **Education**: Professional course in **Informatics** from **Colégio São Miguel**.
+- 💼 **Experience**: Hands-on experience in developing web applications, data analysis tools, and automation scripts.
+- 🌱 **Currently learning**: Exploring **cloud computing**, **networking protocols**, and **machine learning**.
+- 💬 **Languages**: Fluent in **Portuguese** and **English**.
 
 ## 🔧 Technologies & Tools
 
@@ -16,46 +15,43 @@ I completed a **professional course in Informatics** at **Colégio São Miguel**
 - **C**, **Python**, **PHP**, **JavaScript**, **Bash**, **Go**
 
 ### **Frameworks & Libraries**
-- **Laravel**, **React Native**, **Go**, **Django**, **Numpy**, **Matplotlib**, **Laravel Pusher**, **WebSockets**
+- **Laravel**, **React Native**, **Django**, **Numpy**, **Matplotlib**, **WebSockets**, **Pusher**
 
-### **Tools & Technologies**
-- **Docker**, **Jupyter Notebook**, **Firebase**, **AWS (Basic knowledge)**
-
-### **Design & Productivity Tools**
-- **Excel**, **Adobe Illustrator**, **Adobe Photoshop**
+### **Tools & Platforms**
+- **Docker**, **Jupyter Notebook**, **Firebase**, **Heroku**
 
 ### **Networking Basics**
 - **TCP/IP**, **DNS**, **HTTP/HTTPS**, **Basic Security Concepts**
 
-## 🚀 Notable Projects
+### **Design & Productivity Tools**
+- **Excel**, **Adobe Illustrator**, **Adobe Photoshop**
 
-Here are some of the projects I've worked on, showcasing my skills in web development, data analysis, and app development:
+## 🚀 Featured Projects
 
-### 1. **Real-Time WebSocket Application with Laravel**
-- Built a real-time web application using **Laravel** and **Pusher**, implementing **WebSockets** for live notifications and updates.
+Here are some of the projects I've developed:
 
-### 2. **Data Science and Visualization with Python**
-- Developed Python projects for **data analysis** and **visualization**, utilizing **Numpy** and **Matplotlib** to process data and create insightful visualizations.
+### 1. **Django Awesome Web App**
+- **Description**: A web application built with **Django**, showcasing my skills in backend development.
+- **Live Demo**: [django-awesome-web-app.herokuapp.com](https://django-awesome-web-app.herokuapp.com)
 
-### 3. **Mobile Application with React Native**
-- Developed a **React Native** app with features like **user authentication** and **real-time data synchronization** through **Firebase**.
+### 2. **Crypto AI**
+- **Description**: A project combining **Python** and **machine learning** to analyze cryptocurrency trends.
+- **Repository**: [crypto-AI](https://github.com/bener07/crypto-AI)
 
-### 4. **Web Application Development with Django**
-- Designed and implemented a **Django**-based web application, deploying it with **Docker** for efficient containerization and scalability.
+### 3. **UPnP Console**
+- **Description**: A command-line tool for sending commands to devices using **UPnP**.
+- **Repository**: [UPnP-console](https://github.com/bener07/UPnP-console)
 
-### 5. **Networking Projects**
-- Applied knowledge of **TCP/IP**, **DNS**, and **HTTP/HTTPS** in practical networking scenarios, including the setup of small-scale **network infrastructures**.
+### 4. **My Alexa**
+- **Description**: An ongoing project integrating **Python** with voice recognition for smart home automation.
+- **Repository**: [My_Alexa](https://github.com/bener07/My_Alexa)
 
-## 🌍 Find Me On
+## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/bernardo)
 - [Twitter](https://twitter.com/bernardo)
+- [Instagram](https://www.instagram.com/bernas_drums)
 - [Personal Website](https://yourwebsite.com)
 
-## 📫 How to Reach Me
-
-Feel free to reach out for collaborations, inquiries, or if you want to discuss tech!
-
----
-
-✨ **"The best way to predict the future is to create it." - Abraham Lincoln**
+Feel free to explore my repositories and reach out if you're interested in collaborating or discussing technology!
+ 
