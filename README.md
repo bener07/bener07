@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate software developer from Portuga
 
 ## 💻 About Me
 
-I graduated in **Informatics** from **Colégio São Miguel**, and I’m proficient in a wide range of programming languages and frameworks. My journey in tech is driven by curiosity and a commitment to solving complex problems. I am always striving to enhance my knowledge in software development, as well as deepen my understanding of **networking** and **data-driven technologies**.
+I completed a **professional course in Informatics** at **Colégio São Miguel** during high school, where I developed a solid foundation in programming, web development, and computer systems. My journey in tech is driven by curiosity and a commitment to solving complex problems. I am always striving to enhance my knowledge in software development, as well as deepen my understanding of **networking** and **data-driven technologies**.
 
 - 🌱 **Currently learning**: Expanding my knowledge of **network protocols**, **cloud technologies**, and **machine learning**.
 - 💡 **Interests**: Software development, **networking**, **web applications**, **game development**, **data science**, and **cloud computing**.
